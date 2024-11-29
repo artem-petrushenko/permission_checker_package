@@ -1,6 +1,6 @@
 name: permission_checker
 description: "This package should make it easier for developers to interact with native permissions, since there are many different permissions that relate to a single entity, such as access to photos on different versions of operating systems."
-version: 0.0.1
+version: 0.0.2
 homepage: "https://pub.dev/packages/permission_checker"
 
 environment:

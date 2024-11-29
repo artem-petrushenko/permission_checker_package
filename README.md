@@ -1,6 +1,6 @@
-# PermissionHandler Package
+# PermissionChecker Package
 
-`PermissionHandler` is a convenient Flutter widget designed to simplify working with permissions. It helps developers
+`PermissionChecker` is a convenient Flutter widget designed to simplify working with permissions. It helps developers
 avoid the hassle of manually managing permissions for different operating system versions.
 
 ## Features
@@ -13,7 +13,7 @@ avoid the hassle of manually managing permissions for different operating system
 
 ## Installation
 
-Add `permission_handler` to your project's pubspec.yaml file:
+Add `permission_checker` to your project's pubspec.yaml file:
 
 ```yaml
 dependencies:
